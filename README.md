@@ -11,8 +11,13 @@ docker-compose up
 
 # How-to
 
-Put code with Makefile that creates a.out executable in **make** directory.
+Put code with Makefile that creates `a.out` executable in **make** directory.
 Run `docker-compose up`
+
+# GCC version
+
+Default in 8.2.0.
+Change in `Dockerfile`.
 
 # Example
 
